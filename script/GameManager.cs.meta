@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: c6e0169ff86951c43973beeaa13f9e31
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameoverText: {instanceID: 0}
+  - recordText: {instanceID: 0}
+  - timeText: {instanceID: 0}
+  - buffText: {instanceID: 0}
+  - HPText: {instanceID: 0}
+  - bullerSpawnerPrefab: {instanceID: 0}
+  - MeleeMonsterPrefab: {fileID: 229994052160740939, guid: 0b62ef38b607c0741a06176ca2907a3c, type: 3}
+  - itemPrefab: {instanceID: 0}
+  - DitemPrefab: {instanceID: 0}
+  - weaponitemPrefab: {instanceID: 0}
+  - upgradeitemPrefab: {instanceID: 0}
+  - level: {instanceID: 0}
+  - Pistolimage: {instanceID: 0}
+  - Machineimage: {instanceID: 0}
+  - Laserimage: {instanceID: 0}
+  - Rocketimage: {instanceID: 0}
+  - coinText: {instanceID: 0}
+  - PlayerA: {instanceID: 0}
+  - PlayerB: {instanceID: 0}
+  - PlayerC: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
